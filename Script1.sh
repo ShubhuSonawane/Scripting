@@ -3,3 +3,6 @@ echo "We are from batch-25 and learning git/gihub"
 echo "We are learning Branching"
 echo "I am learning Devops"
 echo "Adding new line"
+echo "I am from devops team and cloud team"
+echo "I am devops-2"
+
